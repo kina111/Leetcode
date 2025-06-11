@@ -7,6 +7,7 @@ package priorityQueue;
 /*
 Task: Given two integers n and k, return the kth lexicographically smallest integer in the range [1, n].
 
+Complex: O(logn*logn)-much faster than normal traveraling a trie
  */
 public class KthSmallestInLexicographicalOrder {
 
